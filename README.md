@@ -8,5 +8,6 @@ TO DO:
 - Create a real Python package (ok, I'm not sure I know what that means :) )
 - Check file import/export errors
 - Spending time on enjoying the result (Yes, that's important)
+- Ending TopLevel error window
 
 That should be good for this project
