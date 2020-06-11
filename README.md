@@ -1,6 +1,6 @@
 # Conway-s_Game_of_life
 Conway's Game of life using python and tkinter GUI library.<br>
-It's a project I made in order to practice python programming.<br>
+This is a project I made in order to practice python programming.<br>
 
 TO DO:
 - Finding a way to speed up the calculations (using GPU with cuda? Multithreading?)
