@@ -72,6 +72,8 @@ class CellGrid(object):
                     continue
                 elif ((i, j) in self.alive_cells):
                     alive_neighbor += 1
+                if (alive_neighbor > 3):
+                    return False
         if (alive_neighbor not in (2, 3)):
             return False
         if (cell in self.alive_cells):
